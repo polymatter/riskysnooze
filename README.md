@@ -3,8 +3,11 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
 
 1] Read data with firebase
-2] Login/Logour autentication with firebase
+
+2] Login/Logout autentication with firebase
+
 3] Access permissions on data
+
 4] Write data to firebase
 
 ## Development server
