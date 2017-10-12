@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
 
+1] Read data with firebase
+
+2] Login/Logout autentication with firebase
+
+3] Access permissions on data
+
+4] Write data to firebase
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
